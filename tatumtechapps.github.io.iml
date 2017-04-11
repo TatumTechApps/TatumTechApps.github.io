@@ -4,7 +4,6 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/_site" />
       <excludeFolder url="file://$MODULE_DIR$/bower_components" />
-      <excludeFolder url="file://$MODULE_DIR$/justify/node_modules" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
