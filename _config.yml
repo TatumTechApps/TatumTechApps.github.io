@@ -7,7 +7,7 @@
 
 # Site settings
 title: TatumTech
-email: jon@tatumtech.com
+email: contact@tatumtech.com
 description: > # this means to ignore newlines until "baseurl:"
   Tatum Tech Placeholder Page
 baseurl: "" # the subpath of your site, e.g. /blog
